@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/imanshuljagotra" target="blank"><img src="https://img.shields.io/twitter/follow/imanshuljagotra?logo=twitter&style=for-the-badge" alt="imanshuljagotra" /></a> </p>
 
-- 🌱 I’m currently learning **React,SpringBoot
-**
+- 🌱 I’m currently learning **React,SpringBoot**
 
-- 💬 Ask me about **Java, Android Devlopment, DSA**
+
+- 💬 Ask me about **Java, Devlopment, DSA**
 
 - 📫 How to reach me **anshuljagotra2001@gmail.com**
 
