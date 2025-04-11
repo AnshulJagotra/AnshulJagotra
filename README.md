@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/imanshuljagotra" target="blank"><img src="https://img.shields.io/twitter/follow/imanshuljagotra?logo=twitter&style=for-the-badge" alt="imanshuljagotra" /></a> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops & Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://anshul-portfolio24.netlify.app/](https://anshul-portfolio24.netlify.app/)
 
