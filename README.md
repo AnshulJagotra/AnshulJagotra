@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anshul Jagotra</h1>
-<h3 align="center">Java FullStack Developer</h3>
+<h3 align="center">Exploring the Intersection of AI, Data Science & Blockchain</h3>
 
 <p align="left"> <a href="https://twitter.com/imanshuljagotra" target="blank"><img src="https://img.shields.io/twitter/follow/imanshuljagotra?logo=twitter&style=for-the-badge" alt="imanshuljagotra" /></a> </p>
 
-- 🌱 I’m currently learning **Devops & Blockchain**
+- 🌱 I’m currently learning **AI/ML & Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://anshul-portfolio24.netlify.app/](https://anshul-portfolio24.netlify.app/)
-
-- 💬 Ask me about **Java, Devlopment, DSA**
+- 💬 Ask me about:
+                    🤖 AI/ML
+                    📊 Data Science
+                    🧠 Deep Learning
+                    🌐 Web3 & Blockchain
+                    💸 DeFi
 
 - 📫 How to reach me **anshuljagotra2001@gmail.com**
 
